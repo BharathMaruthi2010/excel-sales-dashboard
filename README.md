@@ -21,9 +21,8 @@ This project demonstrates skills in Excel-based data analysis, dashboard design,
 
 ## 📷 Dashboard Preview
 
-> *(You can replace this with your own image)*
+> <img width="770" height="451" alt="Screenshot 2025-07-24 193110" src="https://github.com/user-attachments/assets/e85bc275-aeed-441a-ad1f-75525858e944" />
 
-![Dashboard Screenshot](screenshots/sales-dashboard.png)
 
 ---
 
